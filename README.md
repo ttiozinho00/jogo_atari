@@ -1,6 +1,6 @@
 # jogo_atari
 
-Desenvolvido em C jogo de tiro com canhão para destruir objeto alvo.
+-Desenvolvido em C jogo de tiro com canhão para destruir objeto alvo.
 
 # metodo para compilar
 
